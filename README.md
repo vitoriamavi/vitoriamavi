@@ -1,21 +1,9 @@
 <h1 align="center">🌙</h1>
 
-<p align="center">
+<p align="center"><
   ✨ Estudante de Redes de Computadores! ✨
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="250"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&center=true&vCenter=true&lines=Codando...;Aprendendo...;Evoluindo..." />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical"/>
+  alBwwftBIY/giphy.gif" width="250"/>
 </p>
